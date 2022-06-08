@@ -1,0 +1,174 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.home{
+    height: 100vh;
+    width: 100vw;
+background-image: url("banner_bg.jpg");
+
+background-position: center;
+background-size: cover;
+
+
+}
+.home{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.rgba{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.header{
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: white;
+    height: 60px;
+}
+.logo{
+    float: left;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.navbar{
+    padding-right: 60px;
+    float: right;
+    padding-top: 10px;
+}
+a{text-decoration: none;
+
+
+margin: 20px;
+color: rgb(84, 85, 87);
+
+
+
+}
+a:hover{
+    color: rgb(52, 52, 214);
+}
+
+h2{
+    text-align: center
+    ;
+    color: white;
+}
+.a{
+    padding-top:170px;
+    font-size: 15px;
+}
+.b{
+
+    font-size: 40px;
+}
+.c{
+    font-size: 15px;
+}
+
+.btn,h2{
+    margin: 40px;
+}
+.btn{
+    color: white;
+    background-color: rgb(255, 251, 21);
+    height: 60px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 2px solid white;
+    margin-left: 600px;
+    width: 120px;
+}
+.btn:hover{
+    color: white;
+    background-color: orange;
+}
+.om{
+    color: rgb(105, 105, 105);
+}
+
+.ho,.hj{
+    text-align: center;
+}
+.ho{
+    color: rgb(0, 0, 0);
+}
+.hj{
+    color: rgb(108, 112, 116);
+}
+.accomodation{
+    height: 60vh;
+    width: 100vw;
+}
+
+.aq{
+    color: rgb(21, 223, 223);
+    font-size: 30px;
+}
+
+.box{
+    height: 40vh;
+    width: 22vw;
+    float: left;
+    margin: 10px;
+}
+
+.imo{
+    height: 300px;
+    width: 300px;
+margin: 15px;
+}
+.imo:hover{
+    height: 310px;
+    width: 310px;
+}
+.bn{
+    color: white;
+    background-color: rgb(255, 251, 21);
+    height: 60px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 2px solid white; 
+    width: 120px;
+}
+.bn:hover{
+    color: white;
+    background-color: orange;
+}
+.ro{
+    background-color: rgba(245, 38, 245, 0.5);
+}
+.facilities,.accomodation{
+    margin: 300px;
+}
+.hf,p{
+    color: rgb(240, 233, 233);
+    margin: 15px;
+}
+.facilities{
+    height: 120vh;
+    width: 100vw;
+    background-image: url("facilites_bg.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+.ro{
+    height: 120vh;
+    width: 100vw;
+    background-color: rgba(114, 108, 113, 0.5);
+}
+.kox{
+    padding: 15px;
+    height: 300px;
+    width: 300px;
+    background-color: rgba(182, 182, 164, 0.5);
+    float: left;
+    margin: 25px;
+    border: 1px solid rgb(143, 133, 133);
+
+
+
+}
